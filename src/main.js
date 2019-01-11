@@ -51,6 +51,7 @@ selectOrder.addEventListener('change', () => {
 // mostrando primer usuario topTeam 
 const arrDataLolTopTeam = lol.championsTopTeam(arrDataLolTotal);
 const showTopTeam = () => {
+  document.getElementById('screen-filter').style.display = 'none';
   document.getElementById('screen-principal').style.display = 'none';
   document.getElementById('screen-top').style.display = 'block';
   for (let i = 0; i < arrDataLolTopTeam.length; i++) {
@@ -128,8 +129,6 @@ buttonFilter.addEventListener('click', () => {
 
 // mostrando la estadistica de los campeones
 const statsClick = () => {
-  document.getElementById('screen-top').style.display = 'none';
-  document.getElementById('screen-principal').style.display = 'none';
   document.getElementById('screen-filter').style.display = 'none';
   document.getElementById('screen-stats').style.display = 'block';
   createStats(arrDataLolTotal);
