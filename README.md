@@ -1,6 +1,9 @@
 # Data Lovers
 * [Definición del producto](#Definición-del-producto)
+* [Entrevistas Grupales](#Entrevistas-Grupales)
+* [Entrevistas Personales](#Entrevistas-Personales)
 * [Historias De Usuario](#Historias-De-Usuario)
+* [Conclusiones](#Conclusiones)
 * [Prototipo de Baja Fidelidad](#Prototipo-de-Baja-Fidelidad)
 * [Prototipo de Alta Fidelidad](#Prototipo-de-Alta-Fidelidad)
 
@@ -18,7 +21,72 @@ este proyecto se trata de crear una página amigable donde facilite al usuario q
   Según los usuarios entrevistados nos indicaron que prefieren escoger a sus campeones según sus roles ya que les ayuda saber en que posición jugarán,
   tambien les interesaba saber sus características como su ataque,defensa,dificultad y magia poque les ayudaría escoger que mejor campeón seria mas fuerte 
   que el otro una vez que haya escogido su rol.
+
+# Entrevistas Grupales
+***
+1¿Qué campeones utilizas más y por qué?
+* Soy mas de rol supp utilidad,Gangplank, por Tobias Fate, es mi ídolo
+* Akali, Kassadin y Shaco porque me gusta el estilo de "asesinato" que ejecuta cada uno.
+* Kai-sa, jhin, sivir porque soy main adc
+* Vayne, por ser "tiradora" rápida A
+* ahora solo uso a magos como lulu y me encanta su forma de juego e salvado vidas 
+* Ezreal, es mi campeon favorito por sus habilidades y frases
+* En general uso a todos porque no tengo tiempo para andar con uno solo, me aburre
+Aurelion Sol porque es dificil
+
+2¿Que características son mas importantes para ti al escoger a un campeón? (AD, AP, Tank, Dificultad)
+* AD
+* Ap
+* Que tanto se ajusta a mi playstyle usual (asesino) y si es AD o AP
+* Pues depende tu rol, ad porque eres el hipercarry, tank para defender tu adc, y mago que es     un carry pero con cds.
+* La dificultad
+* Yo escojo dependiendo de la linea y composición del equipo, si hay un top AD yo voy mago AP (Si voy mid)
+* Ataque (AD)
+* AD y Tank
+* si tuviera que elegir seria dependiendo de la linea, aveces uno tiene que elegir tanques en top, magos (ap) o asesinos (ad), tiradores (ad pero usa armas de distancia) y soporte (da curaciones o tiene un buen protagonizmo al tener control de masas)
+* Tank
+* AP
+* Ataque, defensa y magia
+* Que sea fácil de usar y que tenga mucho daño
+* Estadística de dificultad
+* Ad y Ap por que a mi me gusta reventar personas como con veigar de una R explatas al creido     del otro team.
+* La dificultad
+* Ad, tank
+3 En la selección de campeón de una partida, los campeones son ordenados alfabéticamente (A-Z) ¿Que otro modo sugieres que se ordenaran los campeones en la selección? (por rol o linea, maestría, runas u otro)
+* Rol
+*Linea
+* Por linea y maestria
+* Ya se ordenan por preferencia, nombre y maestría
+* Siempre los ordeno por rol, aunque no depende de eso, si sabes con un campeon y miras que te    va bien en otra linea, llevalo y ya
+* por linea y rol
+*por dificultad
+* Por Rol estaria bien
+* yo ordenaría por magos, asesinos, tiradores, tanques, soportes, soportes con control de masas, etc. pero el punto es ordenarlo sin importar que se puedan usar en otras lineas
+* Por rol
+* Por rol
+* Por linea sería más facil
+* Que se pueda personalizar, o que según tu registro de partidas, te paso nota primero lo que más usas de esa línea.
+* Me gustaria que fue ordenados por maestria y se quedara fijo.
+
+# Entrevistas Personales
+ ***
+1 Nombre: Jhon
+Edad:23 años
+Actividad:Empleador
+¿qué campeón utilizas y por qué?
+Jhin porque es un heroe de rango y se puede farmear(armarlo) bien.
+utilizo el rol de tirado y de soporte. 
+2 Nombre: Rafael
+Edad:19 años
+Actividad:Estudiante
+¿qué campeón utilizas y por qué?
+Gito Gath porque su ultimo poder es comerse a los heroes y aumenta su vida al hacerlo.
+lo que mas compro en la tienda es botón de rapidez y coraza del muerto.
+# Conclusiones
+por las respuestas personales y grupales de los usuarios de league of legends,hemos llegado a la conclusión que la mayor parte indicaba que le gusta un campeón por el rol que asume,a la vez indica que le interesa el ataque que le caracteriza a cada rol,sus puntos de vida y algunas características de cada uno como su magia ,dificultad,etc.
+
 # Historias De Usuario
+***
  1. yo como usuario quiero quiero que me muestre los 10 primeros mejores campeones que tengan mayor rango de ataque.
  2. yo como usuario quiero que me filtre los campeones sugún el rol que elija.
  3. yo como usuario quiero que me filtre las características (ataque,defensa,dificultad y magia) de los campeones según mi elección.
